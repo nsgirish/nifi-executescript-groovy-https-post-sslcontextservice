@@ -1,5 +1,5 @@
 
-# nifi-groovy-invoke-https-post
+# HTTPS POST JSON request via NIFI ExecuteScript groovy processor referencing a existing SSLContext controller service 
 
 ## Summary
 
